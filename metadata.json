@@ -1,0 +1,12 @@
+{
+  "name": "Krokooo Video Chat & Rooms",
+  "description": "Krokooo live multi-user video chat platform with room-based hosting, webcam broadcasting, multi-colour chat, moderation, and virtual gifts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
